@@ -1,6 +1,34 @@
+
+body{
+    background-image: url("file:///C:/Users/nany_/Desktop/desarrollo_%20web/Recetario/recetas/cocina.jpg");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-color: salmon;
+    width: auto;
+    margin:center;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
 h1{
-    color: rgb(224, 43, 143);
+    color: rgb(7, 97, 7);
     text-align: center;
     font-weight: bold;
-    font-family:'Courier New', Courier, monospace   
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+ 
 }
+   
+ul{
+    list-style-image: url(file:///C:/Users/nany_/Desktop/desarrollo_%20web/Recetario/recetas/vi%C3%B1eta.jpg);
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     text-align: center;
+     line-height: 4.0;
+     font-size: 30px;
+     
+}  
+li{
+    color: black;
+}
+
+   
