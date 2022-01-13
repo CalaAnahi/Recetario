@@ -19,7 +19,7 @@ body{
     background-color: blanchedalmond;
     padding: 3px;
     border: 5px;
-    overflow-x: scroll
+    overflow-x: scroll;
     
 }
 
@@ -32,7 +32,7 @@ body{
     background-color: blanchedalmond;
     padding: 3px;
     border: 10px;
-    overflow-x: scroll
+    overflow-x: scroll;
     
 }
 .caja-texto3{
@@ -44,7 +44,7 @@ body{
     background-color: blanchedalmond;
     padding: 3px;
     border: 10px;
-    overflow-x: scroll
+    overflow-x: scroll;
     
 }
 h1{
@@ -70,7 +70,7 @@ h1{
     border-style: double;
     width: 500px;
     height: auto;
-    float: right   
+    float: right;   
 }
 .imagen2 {
     border-radius: 10px;
@@ -79,7 +79,7 @@ h1{
     border-style: double;
     width: 500px;
     height: 480px;
-    float: right   
+    float: right;  
 }
 .imagen3 {
     border-radius: 10px;
@@ -88,7 +88,7 @@ h1{
     border-style: double;
     width: 500px;
     height: 500px;
-    float: right   
+    float: right;   
 }
 
 p{
